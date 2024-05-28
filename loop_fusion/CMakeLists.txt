@@ -16,7 +16,7 @@ find_package(catkin REQUIRED COMPONENTS
     )
 
 
-find_package(OpenCV 3 REQUIRED)
+find_package(OpenCV)
 find_package(Ceres REQUIRED)
 find_package(Eigen3)
 
